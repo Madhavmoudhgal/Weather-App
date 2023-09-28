@@ -19,7 +19,7 @@ This Weather App is built with React and provides real-time weather information 
 1. Clone this repository to your local machine: `https://github.com/Madhavmoudhgal/Weather-App.git`
 2. Navigate to the project directory: `cd weather-app`
 3. Install project dependencies: `npm install`
-4. 
+4. **User must enter a location to view weather information.**
 
 ## Usage
 1. Enter a city name or zip code in the search bar.
@@ -42,7 +42,7 @@ This Weather App is not only a frontend application but also features a backend 
 
 To access the backend and retrieve weather information, you can use the following endpoint:
 
-- **Backend API Endpoint**: [https://your-backend-url.com/api/weather](https://your-backend-url.com/api/weather)
+- **Backend API Endpoint**: [https://github.com/Madhavmoudhgal/Weather-appBackend.git](https://github.com/Madhavmoudhgal/Weather-appBackend.git)
 
 The backend is crucial for securely interfacing with OpenWeather's API, and it ensures the smooth operation of this Weather App.
    
